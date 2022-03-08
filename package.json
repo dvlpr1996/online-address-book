@@ -1,36 +1,28 @@
 {
   "name": "online-address-book",
   "version": "0.1.0",
-  "description": "free and online address book ,help you to organize your contact information",
-  "main": "no",
+  "description": "PHP online address book ,help you to organize your contact information",
   "directories": {
-    "doc": "docs"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dvlpr1996/online-address-book.git"
-  },
-  "keywords": [
-    "php",
-    "address",
-    "book",
-    "online",
-    "address",
-    "book",
-    "responsive",
-    "address",
-    "book"
-  ],
-  "author": "nima jahan bakhshian",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/dvlpr1996/online-address-book/issues"
-  },
-  "homepage": "https://github.com/dvlpr1996/online-address-book#readme",
-  "dependencies": {
-    "sweetalert2": "^11.3.0"
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/dvlpr1996/online-address-book.git"
+    },
+    "keywords": [
+      "PHP",
+      "Online",
+      "Responsive design",
+      "Bootstrap 5",
+      "Address book"
+    ],
+    "author": "nima jahan bakhshian",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/dvlpr1996/online-address-book/issues"
+    },
+    "homepage": "https://github.com/dvlpr1996/online-address-book#readme",
+    "dependencies": {
+      "path": "^0.12.7",
+      "sweetalert2": "^11.3.0"
+    }
   }
 }
